@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "6651e0550878c0c89b21708c",
+      "email": "level2@programming-hero.com",
+      "productId": "6650ba7b8aca58d7ed510f9d",
+      "quantity": 1,
+      "price": 999,
+      "__v": 0
+    },
+    {
+      "_id": "6651e3473c799cb9849682c9",
+      "email": "mamun@gmail.com",
+      "productId": "6650ba7b8aca58d7ed510f9f",
+      "quantity": 5,
+      "price": 450,
+      "__v": 0
+    },
+    {
+      "_id": "665ee5739c15c0be09330529",
+      "email": "example@programming-hero.com",
+      "productId": "665ee56e9c15c0be09330522",
+      "quantity": 1,
+      "price": 999,
+      "__v": 0
+    }
+  ]

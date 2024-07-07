@@ -1,0 +1,386 @@
+[
+    {
+      "_id": "6650ba7b8aca58d7ed510f9d",
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with high-fidelity sound and long battery life.",
+      "price": 59.99,
+      "category": "Electronics",
+      "tags": [
+        "audio",
+        "portable",
+        "wireless",
+        "speaker"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Blue"
+        },
+        {
+          "type": "color",
+          "value": "Red"
+        }
+      ],
+      "inventory": {
+        "quantity": 199,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510f9e",
+      "name": "Yoga Mat",
+      "description": "Eco-friendly yoga mat with non-slip surface.",
+      "price": 24.99,
+      "category": "Fitness",
+      "tags": [
+        "yoga",
+        "fitness",
+        "eco-friendly",
+        "non-slip"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Green"
+        },
+        {
+          "type": "color",
+          "value": "Purple"
+        }
+      ],
+      "inventory": {
+        "quantity": 75,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510f9f",
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh upper.",
+      "price": 79.99,
+      "category": "Footwear",
+      "tags": [
+        "running",
+        "shoes",
+        "lightweight",
+        "breathable"
+      ],
+      "variants": [
+        {
+          "type": "size",
+          "value": "8"
+        },
+        {
+          "type": "size",
+          "value": "9"
+        },
+        {
+          "type": "size",
+          "value": "10"
+        }
+      ],
+      "inventory": {
+        "quantity": 115,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa0",
+      "name": "Electric Kettle",
+      "description": "Stainless steel electric kettle with auto shut-off feature.",
+      "price": 39.99,
+      "category": "Kitchen",
+      "tags": [
+        "kitchen",
+        "appliance",
+        "electric",
+        "kettle"
+      ],
+      "variants": [
+        {
+          "type": "capacity",
+          "value": "1.5L"
+        },
+        {
+          "type": "capacity",
+          "value": "2L"
+        }
+      ],
+      "inventory": {
+        "quantity": 60,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa1",
+      "name": "Gaming Keyboard",
+      "description": "Mechanical gaming keyboard with RGB backlight.",
+      "price": 89.99,
+      "category": "Electronics",
+      "tags": [
+        "gaming",
+        "keyboard",
+        "mechanical",
+        "RGB"
+      ],
+      "variants": [
+        {
+          "type": "switch",
+          "value": "Blue"
+        },
+        {
+          "type": "switch",
+          "value": "Red"
+        }
+      ],
+      "inventory": {
+        "quantity": 40,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa2",
+      "name": "Smart Watch",
+      "description": "Smart watch with heart rate monitor and GPS.",
+      "price": 129.99,
+      "category": "Wearable",
+      "tags": [
+        "smartwatch",
+        "wearable",
+        "fitness",
+        "GPS"
+      ],
+      "variants": [
+        {
+          "type": "strap",
+          "value": "Silicone"
+        },
+        {
+          "type": "strap",
+          "value": "Leather"
+        }
+      ],
+      "inventory": {
+        "quantity": 90,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa3",
+      "name": "Noise-Cancelling Headphones",
+      "description": "Wireless noise-cancelling headphones with 20-hour battery life.",
+      "price": 199.99,
+      "category": "Audio",
+      "tags": [
+        "audio",
+        "headphones",
+        "wireless",
+        "noise-cancelling"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Black"
+        },
+        {
+          "type": "color",
+          "value": "Silver"
+        }
+      ],
+      "inventory": {
+        "quantity": 85,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa4",
+      "name": "Smartphone",
+      "description": "Latest model smartphone with 128GB storage and dual cameras.",
+      "price": 699.99,
+      "category": "Electronics",
+      "tags": [
+        "smartphone",
+        "mobile",
+        "dual camera",
+        "128GB"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Black"
+        },
+        {
+          "type": "color",
+          "value": "White"
+        }
+      ],
+      "inventory": {
+        "quantity": 50,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba7b8aca58d7ed510fa5",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with 12-cup capacity.",
+      "price": 49.99,
+      "category": "Kitchen",
+      "tags": [
+        "kitchen",
+        "coffee",
+        "appliance",
+        "programmable"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Black"
+        },
+        {
+          "type": "color",
+          "value": "Stainless Steel"
+        }
+      ],
+      "inventory": {
+        "quantity": 30,
+        "inStock": true
+      }
+    },
+    {
+      "_id": "6650ba9b96f48b3152a6b5d4",
+      "name": "iPhone 13",
+      "description": "A sleek and powerful smartphone with cutting-edge features.",
+      "price": 999,
+      "category": "Electronics",
+      "tags": [
+        "smartphone",
+        "Apple",
+        "iOS"
+      ],
+      "variants": [
+        {
+          "type": "Color",
+          "value": "Midnight Blue"
+        },
+        {
+          "type": "Storage Capacity",
+          "value": "256GB"
+        }
+      ],
+      "inventory": {
+        "quantity": 50,
+        "inStock": true
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6650bab696f48b3152a6b5d6",
+      "name": "Samsung Galaxy S21",
+      "description": "High-performance Android smartphone with advanced camera capabilities.",
+      "price": 799,
+      "category": "Electronics",
+      "tags": [
+        "smartphone",
+        "Samsung",
+        "Android"
+      ],
+      "variants": [
+        {
+          "type": "Color",
+          "value": "Phantom Black"
+        },
+        {
+          "type": "Storage Capacity",
+          "value": "128GB"
+        }
+      ],
+      "inventory": {
+        "quantity": 30,
+        "inStock": true
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6650bad696f48b3152a6b5d8",
+      "name": "iPhone SE",
+      "description": "Compact and affordable iPhone model with powerful performance.",
+      "price": 399,
+      "category": "Smartphones",
+      "tags": [
+        "iPhone",
+        "Apple",
+        "Mobile"
+      ],
+      "variants": [
+        {
+          "type": "Color",
+          "value": "White"
+        },
+        {
+          "type": "Storage",
+          "value": "128GB"
+        }
+      ],
+      "inventory": {
+        "quantity": 20,
+        "inStock": true
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6650c5df8d0cfb433cc2659f",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+      "price": 29.99,
+      "category": "Electronics",
+      "tags": [
+        "computer",
+        "peripherals",
+        "wireless",
+        "ergonomic"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Black"
+        },
+        {
+          "type": "color",
+          "value": "White"
+        }
+      ],
+      "inventory": {
+        "quantity": 150,
+        "inStock": true
+      },
+      "__v": 0
+    },
+    {
+      "_id": "6651dfa0898efc9d2096c5c2",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI settings.",
+      "price": 29.99,
+      "category": "Electronics",
+      "tags": [
+        "computer",
+        "peripherals",
+        "wireless",
+        "ergonomic"
+      ],
+      "variants": [
+        {
+          "type": "color",
+          "value": "Black"
+        },
+        {
+          "type": "color",
+          "value": "White"
+        }
+      ],
+      "inventory": {
+        "quantity": 150,
+        "inStock": true
+      },
+      "__v": 0
+    }
+  ]
